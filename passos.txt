@@ -1,0 +1,5 @@
+=> Ao importar o express devo colocar "type:module" no package.json
+=> toda vez que eu mudar algo eu preciso para o servidor e começar de novo.Para evitar isso usa-se : "node --watch server.js"
+=> Por padrão o express não usa Json.Dve ser informado o seu uso : "app.use(express.json());"
+=> Banco de Dados MongoDB: pssodrefonseca MN5p7qqqd77mC2xO
+=> Preciso de uma biblioteca para conectar o MongoDB com o meu código : Prisma : "npm install prisma --save-dev"
